@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:c6a1f1cc-d266-4635-91d5-fe1707ae288d(calculator.workbook.interpreter.interpreter)">
+<model ref="r:c6a1f1cc-d266-4635-91d5-fe1707ae288d(calculator.workbook.interpreter.plugin)">
   <persistence version="9" />
   <languages>
     <use id="47f075a6-558e-4640-a606-7ce0236c8023" name="com.mbeddr.mpsutil.interpreter" version="0" />
