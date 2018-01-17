@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model ref="r:2be2085c-018d-4959-83b1-098878a998bb(calculator.expressions.interpreter.interpreter)">
+<model ref="r:2be2085c-018d-4959-83b1-098878a998bb(calculator.expressions.interpreter.plugin)">
   <persistence version="9" />
   <languages>
     <use id="47f075a6-558e-4640-a606-7ce0236c8023" name="com.mbeddr.mpsutil.interpreter" version="0" />
