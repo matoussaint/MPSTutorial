@@ -5,6 +5,8 @@
       <modulePath path="$PROJECT_DIR$/languages/calculator.expressions/calculator.expressions.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/calculator.workbook/calculator.workbook.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/calculator.workbook/sandbox/calculator.workbook.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/calculator.expressions.interpreter/calculator.expressions.interpreter.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/calculator.workbook.interpreter/calculator.workbook.interpreter.msd" folder="" />
     </projectModules>
   </component>
 </project>
